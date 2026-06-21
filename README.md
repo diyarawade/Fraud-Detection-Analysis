@@ -1,7 +1,7 @@
 # Fraud Detection Analysis using Machine Learning
 
 ## Project Overview
-This project analyzes financial transaction data to identify fraudulent transactions using machine learning techniques. The workflow includes data cleaning, exploratory data analysis, feature engineering, model training, model evaluation, and feature importance analysis.
+This project analyzes financial transaction data to identify fraudulent transactions using Machine Learning techniques. The workflow includes data cleaning, exploratory data analysis (EDA), feature engineering, model training, evaluation, and feature importance analysis. A Random Forest Classifier was used to classify fraudulent and non-fraudulent transactions based on transaction patterns and account behavior.
 
 ## Technologies Used
 - Python
@@ -11,6 +11,12 @@ This project analyzes financial transaction data to identify fraudulent transact
 - Seaborn
 - Scikit-Learn
 - Machine Learning
+
+## Key Results
+- Built a fraud detection model using Random Forest Classifier.
+- Performed data cleaning, feature engineering, and exploratory data analysis.
+- Identified important fraud indicators such as balance differences, transaction amount, and account balances.
+- Evaluated model performance using classification metrics.
 
 ## Project Workflow
 - Data Loading and Preprocessing
