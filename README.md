@@ -41,4 +41,4 @@ The model was evaluated using standard machine learning evaluation techniques to
 The original dataset was not uploaded due to its large size. The analysis was performed on a sampled subset for efficient processing and model development.
 
 ## Skills Demonstrated
-Python, Data Cleaning, Exploratory Data Analysis, Data Visualization, Feature Engineering, Machine Learning, Model Evaluation, Fraud D
+Python, Data Cleaning, Exploratory Data Analysis, Data Visualization, Feature Engineering, Machine Learning, Model Evaluation, Fraud Detection.
